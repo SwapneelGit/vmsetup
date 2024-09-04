@@ -1,8 +1,5 @@
 @echo off
 title Script by Swapneel V1
-color 4
-echo Script by Swapneel for VM Setup
-pause
 cls
 echo Loading Essentials...
 echo -------------------------------------------
@@ -25,7 +22,7 @@ curl https://ss2.softlay.com/files/en_windows_10_22h2_x64_dvd.iso -o win10.iso
 echo Windows Downloaded
 echo -------------------------------------------
 echo All Essentials Downloaded!
-pause
+echo by Swapneel
 
 
 
